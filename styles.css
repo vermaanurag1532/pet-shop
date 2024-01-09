@@ -61,7 +61,7 @@ p {
 
 #features {
     padding: 7% 15%;
-    background-color: #fff;
+    background-color: #3030c1;
     position: relative;
 }
 
@@ -76,7 +76,7 @@ p {
 }
 
 .icon:hover {
-    color: #ff4c68;
+    color: #171515;
 }
 
 #testimonials {
